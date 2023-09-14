@@ -12,7 +12,7 @@ The squares identified by these criteria are labeled with consecutive numbers in
 
 The following diagram shows a crossword puzzle grid and the labeling of the squares according to the crossword labeling rule. 
 
-<img width="723" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.13/assets/57818506/42d5d1a4-36fd-460e-a6a0-7c4cdbf86750">
+![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.13/assets/57818506/37ef5516-9f30-44e5-85ca-01171ad75be8)
 
 The question uses two classes, a Square class that represents an individual square in the puzzle and a Crossword class that represents a crossword puzzle grid. A partial declaration of the Square class is shown below.
 
